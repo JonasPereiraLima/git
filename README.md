@@ -3,3 +3,4 @@
 ## Salvando as configurações no git
 
 * Comando git push
+* comando git pull
